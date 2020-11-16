@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import  ScoreBoard  from "./Scoreboard";
-import  Team  from "./Team";
+import  ScoreBoard  from "../Scoreboard/Scoreboard";
+import  Team  from "../Team/Team";
 
 export default class Game extends Component {
     constructor(props) {
